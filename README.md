@@ -16,7 +16,7 @@ Egy kép A Mester és Margarita megfilmesített változatából:
 Kedvenc magyar műveim (versek és könyvek vegyesen):
 
 1. Reményik Sándor - Egy lélek állt... 
-⋅⋅1. Kölcsey Ferenc - Parainesis Kölcsey Kálmánhoz    
-4. József Attila - Két hexameter 
+2. Kölcsey Ferenc - Parainesis Kölcsey Kálmánhoz    
+3. József Attila - Két hexameter 
 
 
