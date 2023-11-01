@@ -1,6 +1,6 @@
 # Szigli Szabolcs vagyok
 
-A reál érdeklődésem mellett erős a humán vénám is. Szeretem a történelmet, az irodalmat és a vallásokat. Sokat olvasok - többek között vallásfilozófiát, vallásos könyveket, történelmi műveket és szépirodalmat.
+> A reál érdeklődésem mellett erős a humán vénám is. Szeretem a történelmet, az irodalmat és a vallásokat. Sokat olvasok - többek között vallásfilozófiát, vallásos könyveket, történelmi műveket és szépirodalmat.
 
 ### Kedvenc műveim a szépirodalomból:
 
