@@ -10,4 +10,5 @@ Kedvenc műveim a szépirodalomból:
 
          
 Egy kép A Mester és Margarita megfilmesített változatából:
-![alt text](https://github.com/Szabolcs888/Short-introduction/blob/main/A%20Mester%20%C3%A9s%20Margarita.jpg " "
+
+![alt text](https://github.com/Szabolcs888/Short-introduction/blob/main/A%20Mester%20%C3%A9s%20Margarita.jpg)
