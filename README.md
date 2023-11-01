@@ -24,4 +24,7 @@ Egy jelenet A Mester és Margarita megfilmesített változatából (a képre nyo
 
 ---
 
-> Ezen felül is még sok minden érdekel. Szeretek írni és sportolni. És mielőbb családot alapítani. :blush:
+> Ezen felül még sok minden más is érdekel. Szeretek írni és sportolni. És mielőbb szeretnék családot alapítani. :blush:
+
+
+
