@@ -1,6 +1,6 @@
 # Szigli Szabolcs vagyok
 
-> A reál érdeklődésem mellett erős a humán vénám is. Szeretem a történelmet, az irodalmat és a vallásokat. Sokat olvasok - többek között vallásfilozófiát, vallásos könyveket, történelmi műveket és szépirodalmat.
+A reál érdeklődésem mellett erős a humán vénám is. Szeretem a történelmet, az irodalmat és a vallásokat. Sokat olvasok - többek között vallásfilozófiát, vallásos könyveket, történelmi műveket és szépirodalmat.
 
 ### Kedvenc műveim a szépirodalomból:
 
@@ -22,4 +22,6 @@ Egy jelenet A Mester és Margarita megfilmesített változatából (a képre nyo
 2. Kölcsey Ferenc - Parainesis Kölcsey Kálmánhoz    
 3. József Attila - Két hexameter 
 
+---
 
+> Ezen felül is még sok minden érdekel. Szeretek írni és sportolni. És mielőbb családot alapítani. :blush:
