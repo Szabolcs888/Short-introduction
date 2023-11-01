@@ -1,13 +1,13 @@
 # Szigli Szabolcs vagyok
 
-A reál érdeklõdésem mellett erõs a humán vénám is. Szeretem a történelmet, az irodalmat és a vallásokat. Sokat olvasok - többek között vallásfilozófiát, vallásos könyveket, történelmi mûveket és szépirodalmat.
+A reÃ¡l Ã©rdeklÅ‘dÃ©sem mellett erÅ‘s a humÃ¡n vÃ©nÃ¡m is. Szeretem a tÃ¶rtÃ©nelmet, az irodalmat Ã©s a vallÃ¡sokat. Sokat olvasok - tÃ¶bbek kÃ¶zÃ¶tt vallÃ¡sfilozÃ³fiÃ¡t, vallÃ¡sos kÃ¶nyveket, tÃ¶rtÃ©nelmi mÅ±veket Ã©s szÃ©pirodalmat.
 
-Kedvenc mûveim a szépirodalomból:
+Kedvenc mÅ±veim a szÃ©pirodalombÃ³l:
 
-- Mihail Afanaszjevics Bulgakov - A Mester és Margarita
-- Daniel Keyes - Virágot Algernonnak
-- Eric Knight - Légy hû magadhoz 
+- Mihail Afanaszjevics Bulgakov - A Mester Ã©s Margarita
+- Daniel Keyes - VirÃ¡got Algernonnak
+- Eric Knight - LÃ©gy hÅ± magadhoz 
 
          
-Egy kép A Mester és Margarita megfilmesített változatából:
-![alt text](https://github.com/Szabolcs888/Short-introduction/blob/main/A Mester és Margarita.jpg "A Mester és Margarita"
+Egy kÃ©p A Mester Ã©s Margarita megfilmesÃ­tett vÃ¡ltozatÃ¡bÃ³l:
+![alt text](https://github.com/Szabolcs888/Short-introduction/blob/main/A%20Mester%20%C3%A9s%20Margarita.jpg "A Mester Ã©s Margarita"
