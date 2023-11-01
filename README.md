@@ -13,6 +13,11 @@ Egy kép A Mester és Margarita megfilmesített változatából:
 
 ![alt text](https://github.com/Szabolcs888/Short-introduction/blob/main/A%20Mester%20%C3%A9s%20Margarita.jpg)
 
+<a href="https://www.youtube.com/watch?v=-i25M0i98Qg&list=PLU4kI1MEN_MBhULWeA6CCxtTWUoXlBcn6&ab_channel=Sadaa75" target="_blank">
+ <img src="https://github.com/Szabolcs888/Short-introduction/blob/main/A%20Mester%20%C3%A9s%20Margarita.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
+
 ### Kedvenc magyar műveim (versek és könyvek vegyesen):
 
 1. Reményik Sándor - Egy lélek állt... 
